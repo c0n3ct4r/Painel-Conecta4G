@@ -1,4 +1,4 @@
-# Painel-Conecta4G
+# Painel-Conecta4G - by Davidsdy
 
 <h2><p align="center">Projeto 100% gratuito !<br>Não compre de ninguém !</p></h2>
 
@@ -45,9 +45,12 @@
 <li>Para alterar o titulo do painel edite o arquivo: <b>config.php</b></li>
 </ol><br>
 <h3>☑️ Outros</h3> <br>
-Para informar bugs e sugestões: https://t.me/ApoloVPN <br>
+Para informar bugs e sugestões: https://t.me/Davidsdy <br>
 
 <h3>☑️ Descompactar zip</h3> <br>
 https://raw.githubusercontent.com/c0n3ct4r/Painel-Conecta4G/main/unzipper.php
+
+<h3>☑️ Créditos à Davidsdy</h3> <br>
+https://t.me/Davidsdy
 
 
